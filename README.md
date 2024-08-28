@@ -1,7 +1,7 @@
 # MERN E-COMMERCE TUTORIAL
 
 Hi! My name is **Ritik Trivedi**,
-I have made this project for learning MERN stack. Thnaks to Abhishek Singh for Tutorilas. 
+I have made this project for learning MERN stack. Thanks to Abhishek Singh for Tutorilas. 
 
 # Prerequisite
 
